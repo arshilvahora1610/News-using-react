@@ -18,7 +18,6 @@ To run the app, use the command `npm start`. This will start a development serve
 
 The News App has the following features:
 
-- Browse and search for news articles from a variety of sources.
 - View the latest news articles or filter by category.
 - Click on an article to read the full story on the source's website.
 
@@ -32,7 +31,7 @@ The News App was built using the following technologies:
 
 ## Credits
 
-The News App was created by Your Name. Special thanks to the creators of the NewsAPI for providing a simple and easy-to-use news API.
+The News App was created by Arshil Vahora. Special thanks to the creators of the NewsAPI for providing a simple and easy-to-use news API.
 
 ## License
 
